@@ -19,6 +19,9 @@ class ListFoldersAndFiles(var folder: File, fileName: String) {
     }
 
     constructor() : this(File(System.getProperty("user.dir")), "out") {}
+    constructor(folder: File) : this(folder, "out") {}
+    constructor(fileName: String) : this(File(System.getProperty("user.dir")), fileName) {}
+
 
     fun checkFolder() {
         file.printWriter().use { out -> out.println("{") }
@@ -57,7 +60,7 @@ class ListFoldersAndFiles(var folder: File, fileName: String) {
                 if (folder.listFiles()[i].isDirectory) {
                     if (folder.listFiles()[i].listFiles().isNotEmpty()) {
                         howManyTabs--
-                        addTabsToFile(this.howManyTabs+1)
+                        addTabsToFile(this.howManyTabs + 1)
                     }
                 }
                 file.appendText("} \n")
