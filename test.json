@@ -1,0 +1,290 @@
+{
+  ".idea":{ 
+    "type": "folder", 
+    "files" : {    "kotlinc.xml":{ 
+      "type": "file", 
+      "files" : {} 
+    },
+    ".name":{ 
+      "type": "file", 
+      "files" : {} 
+    },
+    "misc.xml":{ 
+      "type": "file", 
+      "files" : {} 
+    },
+    "workspace.xml":{ 
+      "type": "file", 
+      "files" : {} 
+    },
+    "vcs.xml":{ 
+      "type": "file", 
+      "files" : {} 
+    },
+    "codeStyles":{ 
+      "type": "folder", 
+      "files" : {      "Project.xml":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "codeStyleConfig.xml":{ 
+        "type": "file", 
+        "files" : {} 
+      }
+} 
+    },
+    "modules.xml":{ 
+      "type": "file", 
+      "files" : {} 
+    },
+    "libraries":{ 
+      "type": "folder", 
+      "files" : {      "KotlinJavaRuntime.xml":{ 
+        "type": "file", 
+        "files" : {} 
+      }
+} 
+    }
+} 
+  },
+  ".gitignore":{ 
+    "type": "file", 
+    "files" : {} 
+  },
+  "directoryTreeToJSON.iml":{ 
+    "type": "file", 
+    "files" : {} 
+  },
+  "out":{ 
+    "type": "folder", 
+    "files" : {    "production":{ 
+      "type": "folder", 
+      "files" : {      "directoryTreeToJSON":{ 
+        "type": "folder", 
+        "files" : {        "META-INF":{ 
+          "type": "folder", 
+          "files" : {          "directoryTreeToJSON.kotlin_module":{ 
+            "type": "file", 
+            "files" : {} 
+          }
+} 
+        },
+        "ListFoldersAndFiles.class":{ 
+          "type": "file", 
+          "files" : {} 
+        },
+        "MainKt.class":{ 
+          "type": "file", 
+          "files" : {} 
+        }
+} 
+      }
+} 
+    }
+} 
+  },
+  "src":{ 
+    "type": "folder", 
+    "files" : {    "ListFoldersAndFiles.kt":{ 
+      "type": "file", 
+      "files" : {} 
+    },
+    "main.kt":{ 
+      "type": "file", 
+      "files" : {} 
+    }
+} 
+  },
+  "test.json":{ 
+    "type": "file", 
+    "files" : {} 
+  },
+  ".git":{ 
+    "type": "folder", 
+    "files" : {    "HEAD":{ 
+      "type": "file", 
+      "files" : {} 
+    },
+    "COMMIT_EDITMSG":{ 
+      "type": "file", 
+      "files" : {} 
+    },
+    "logs":{ 
+      "type": "folder", 
+      "files" : {      "HEAD":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "refs":{ 
+        "type": "folder", 
+        "files" : {        "heads":{ 
+          "type": "folder", 
+          "files" : {          "master":{ 
+            "type": "file", 
+            "files" : {} 
+          }
+} 
+        }
+} 
+      }
+} 
+    },
+    "hooks":{ 
+      "type": "folder", 
+      "files" : {      "pre-applypatch.sample":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "prepare-commit-msg.sample":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "pre-push.sample":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "update.sample":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "pre-commit.sample":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "pre-receive.sample":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "commit-msg.sample":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "post-update.sample":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "pre-merge-commit.sample":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "fsmonitor-watchman.sample":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "applypatch-msg.sample":{ 
+        "type": "file", 
+        "files" : {} 
+      },
+      "pre-rebase.sample":{ 
+        "type": "file", 
+        "files" : {} 
+      }
+} 
+    },
+    "index":{ 
+      "type": "file", 
+      "files" : {} 
+    },
+    "objects":{ 
+      "type": "folder", 
+      "files" : {      "18":{ 
+        "type": "folder", 
+        "files" : {        "f8dc02ef5c8bbc81c21350ced2f7040adcb5b3":{ 
+          "type": "file", 
+          "files" : {} 
+        }
+} 
+      },
+      "pack":{ 
+        "type": "folder", 
+        "files" : {
+} 
+      },
+      "ee":{ 
+        "type": "folder", 
+        "files" : {        "03b14b21e0700a899dbae792f55a842f9cd48f":{ 
+          "type": "file", 
+          "files" : {} 
+        }
+} 
+      },
+      "24":{ 
+        "type": "folder", 
+        "files" : {        "5d3429faae22cba4ef10f7379236b6756defe1":{ 
+          "type": "file", 
+          "files" : {} 
+        }
+} 
+      },
+      "info":{ 
+        "type": "folder", 
+        "files" : {
+} 
+      },
+      "eb":{ 
+        "type": "folder", 
+        "files" : {        "8b64bbd474dae97332304a8dafc70edbd8dfb0":{ 
+          "type": "file", 
+          "files" : {} 
+        }
+} 
+      },
+      "b2":{ 
+        "type": "folder", 
+        "files" : {        "d217178e7692b3b6d402f966fe7b3740952523":{ 
+          "type": "file", 
+          "files" : {} 
+        }
+} 
+      },
+      "65":{ 
+        "type": "folder", 
+        "files" : {        "1b1473f8518576b25443eacf9e500ebaa204c9":{ 
+          "type": "file", 
+          "files" : {} 
+        }
+} 
+      }
+} 
+    },
+    "config":{ 
+      "type": "file", 
+      "files" : {} 
+    },
+    "refs":{ 
+      "type": "folder", 
+      "files" : {      "tags":{ 
+        "type": "folder", 
+        "files" : {
+} 
+      },
+      "heads":{ 
+        "type": "folder", 
+        "files" : {        "master":{ 
+          "type": "file", 
+          "files" : {} 
+        }
+} 
+      }
+} 
+    },
+    "info":{ 
+      "type": "folder", 
+      "files" : {      "exclude":{ 
+        "type": "file", 
+        "files" : {} 
+      }
+} 
+    },
+    "branches":{ 
+      "type": "folder", 
+      "files" : {
+} 
+    },
+    "description":{ 
+      "type": "file", 
+      "files" : {} 
+    }
+} 
+  }
+}
