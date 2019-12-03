@@ -25,17 +25,21 @@ fun main(args: Array<String>) {
         if (name == "" && directory == "") {
             val listFoldersAndFiles = ListFoldersAndFiles()
             listFoldersAndFiles.checkFolder()
+            println("SUCCESS")
         } else if (name != "") {
             if (directory != "") {
                 val listFoldersAndFiles = ListFoldersAndFiles(File(directory), name)
                 listFoldersAndFiles.checkFolder()
+                println("SUCCESS")
             } else {
                 val listFoldersAndFiles = ListFoldersAndFiles(name)
                 listFoldersAndFiles.checkFolder()
+                println("SUCCESS")
             }
         } else if (directory != "") {
             val listFoldersAndFiles = ListFoldersAndFiles(File(directory))
             listFoldersAndFiles.checkFolder()
+            println("SUCCESS")
         }
     }
 }
