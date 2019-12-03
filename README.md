@@ -10,7 +10,7 @@ If you add parameter **-d** you will indicate directory to analyse<br>
 If you add parameter **-n** you will change name output file (command self add extension json)<br>
 `java -jar directoryTreeToJSON.jar -h`<br>
 If you need help use parameter **-h**<br>
-If you need shortest version this command you can use e. g. in linux alias or sh file
+If you need shorter version this command you can use e. g. in linux alias or sh file
 ##Effect
 ```json5
 {
